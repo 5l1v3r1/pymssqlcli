@@ -1,3 +1,5 @@
+#!/usr/bin/env python -c
+
 from __future__ import print_function
 
 import pprint
